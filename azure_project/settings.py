@@ -93,7 +93,7 @@ DATABASES = {
         'NAME': 'free-sql-db-5006430',
         'USER': 'hai-admin',
         'PASSWORD': '22Poepoe11',
-        'HOST': 'tcp:hai-admin.database.windows.net',
+        'HOST': 'hai-admin.database.windows.net',
         'PORT': '1433',
         'OPTIONS': {
             'driver': 'ODBC Driver 18 for SQL Server',
