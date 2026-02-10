@@ -111,7 +111,6 @@ mongo_password = urllib.parse.quote_plus('Kzh12345')
 MONGO_URI = f'mongodb+srv://{mongo_username}:{mongo_password}@khantzaw.global.mongocluster.cosmos.azure.com/?tls=true&authMechanism=SCRAM-SHA-256&retrywrites=false&maxIdleTimeMS=120000'
 MONGO_DB_NAME = 'django_store_reviews'
 
-mongodb+srv://khantmongo:<password>@khantzaw.global.mongocluster.cosmos.azure.com/?tls=true&authMechanism=SCRAM-SHA-256&retrywrites=false&maxIdleTimeMS=120000
 
 # Password validation
 # https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators
